@@ -38,19 +38,19 @@
 }
 
 .category_text .infra{
-    background-color: salmon;
+    background-color: #BE33FF;
 }
 
 .category_text .desenvolvimento{
-    background-color: lightgreen;
+    background-color: #3FFF33;
 }
 
 .category_text .design{
-    background-color: aquamarine;
+    background-color: #59806D;
 }
 
 .category_text .planejamento{
-    background-color: lightpink;
+    background-color: #735980;
 }
 
 .project_card_actions {
