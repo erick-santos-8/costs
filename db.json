@@ -25,7 +25,7 @@
     {
       "id": "9eae",
       "name": "teste 3",
-      "budget": "8000000",
+      "budget": "5000",
       "category": {
         "id": "3",
         "name": "Design"
@@ -36,7 +36,7 @@
     {
       "id": "6b34",
       "name": "teste 4",
-      "budget": "2000",
+      "budget": "15000",
       "category": {
         "id": "4",
         "name": "Planejamento"
