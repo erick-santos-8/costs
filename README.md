@@ -1,3 +1,6 @@
+Projeto realizado com base no curso de React do canal Hora de Codar: https://youtu.be/FXqX7oof0I4?si=0BjQm9hmCruAxcPA
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
